@@ -1,0 +1,71 @@
+story:
+
+One day, Chuck Shmoe was putzing around
+in his boat.
+
+Chuck is not a proud or ambitous man.
+He is a putz.
+
+Chuck loves to fish, and to putz around
+in his boat.
+
+...
+putzes around on lake, storm strands him on island
+oblivious to sinister things happening on island
+just wants to recover handyman tools and go back to fishing
+
+
+scenario:
+
++ island's dark secrets:
+  - pollution dumping
+  - hellmouth
+  - alien invasion
+  - lampshade terrorists and hostages
+  - slave minor miners
+  - death ray construction site
+  - nuclear missile silo
+  + evidence furnace
+    - corporate records
+    - ballots
+    - witnesses
+
+
+music:  (ideas from 2011/12 mod collection, i think...)
+
+title:
+  aggression - easy cd creator
+title/story/attract:
+  aggression keygen
+dungeon:
+  airport 7
+  all your base...
+  apokalyptica
+  1-9/blinded monarch
+  cb swing
+  pre-d/horror
+  dvt
+  e/reality in 2d
+  explosion
+  woods
+  lost new world
+  meet the raccoons
+story/intro/title:
+  all for the rain
+  happy loopy chicken
+chase/kart:
+  alt. binary system
+overworld:
+  bagger +
+  chippy
+  d/blue mazda
+  loewenzahn
+ending:
+  bridge
+  boggers redux
+boss:
+  bubblegum crisis
+  1 step ahead
+  danger of the cow
+menu:
+  d/impulse
